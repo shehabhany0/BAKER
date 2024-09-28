@@ -1,0 +1,214 @@
+/* ------------item_1----------- */
+body {
+  margin: auto;
+}
+
+.item {
+  display: inline-block;
+  background-image: url("./imga/drew-coffman-1872.jpg");
+  background-position-y: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  width: 100%;
+}
+.item_1 {
+  text-align: center;
+}
+.item_1 p {
+  color: #ffffff;
+  font-size: 22px;
+  margin-top: 250px;
+}
+.item_1 h1 {
+  color: #ffffff;
+  font-size: 76px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+#p1 {
+  color: #ffffff;
+  font-size: 24px;
+  margin-top: 10px;
+  margin-bottom: 340px;
+}
+/* --------item_2------------ */
+.contner-item2 {
+  display: inline-block;
+  margin: auto;
+  margin-bottom: 50px;
+  margin-top: -50px;
+  width: 100%;
+}
+.item_2 {
+  display: inline-block;
+  margin: auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  vertical-align: middle;
+}
+#img1 {
+  width: 569px;
+  margin-left: 450px;
+  margin-top: 100px;
+  vertical-align: middle;
+}
+.item_2 h2 {
+  margin-left: 100px;
+  margin-top: 100px;
+  font-size: 32px;
+}
+.item_2 #p2 {
+  margin-left: 100px;
+  font-size: 17px;
+}
+.item_2 #p3 {
+  margin-left: 100px;
+  margin-top: 50px;
+  font-size: 17px;
+}
+/* -----------item_3 -----------*/
+.contner-item3 {
+  display: inline-block;
+
+  margin-top: -20px;
+  margin-bottom: 100px;
+  background-color: #f8f8f8;
+  width: 100%;
+  vertical-align: middle;
+}
+.item_3 {
+  display: inline-block;
+  margin-top: -50px;
+  vertical-align: middle;
+}
+#img2 {
+  width: 569px;
+  margin-left: 100px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  vertical-align: middle;
+}
+.item_3 h2 {
+  margin-left: 450px;
+  margin-top: 20px;
+
+  font-size: 32px;
+}
+.item_3 #p2 {
+  margin-left: 450px;
+  font-size: 17px;
+}
+.item_3 #p3 {
+  margin-left: 450px;
+  margin-top: 30px;
+  font-size: 17px;
+}
+/* -------------item_4------------*/
+.con-item4 {
+  margin-left: 340px;
+  margin-right: 340px;
+  margin-top: -50px;
+  margin-bottom: 100px;
+}
+.title {
+  text-align: center;
+}
+.item_4 {
+  float: left;
+  width: 25%;
+  text-align: center;
+  margin-left: 70px;
+  margin-top: 50px;
+}
+.clear {
+  clear: both;
+}
+#img3 {
+  width: 110%;
+}
+.item_4 p {
+  font-size: 17px;
+}
+/* -------------item_5-------------- */
+.contner-item5 {
+  background-color: #f8f8f8;
+  margin-top: -50px;
+}
+
+.item_5 {
+  float: left;
+  width: 50%;
+  text-align: left;
+  margin-left: 500px;
+  margin-right: -500px;
+  margin-top: 140px;
+}
+.clear-fixs {
+  clear: both;
+}
+
+#img4 {
+  width: 500px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+/* ----------item_6------------------ */
+.contner-item6 {
+  background-color: #403d38;
+  margin: auto;
+}
+.con-item6 {
+  margin-left: 400px;
+  margin-right: 400px;
+}
+
+.item_6 {
+  float: left;
+  width: 25%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+.fixs_float {
+  clear: both;
+}
+.item_6 h4 {
+  color: #ffffff;
+}
+.item_6 span {
+  color: #ffffff;
+}
+a {
+  color: #ffffff;
+}
+/* ----------------item_7--------------- */
+.contner-item7 {
+  float: left;
+  background-color: #353330;
+  width: 100%;
+}
+.clear_float {
+  clear: both;
+}
+.item_7 {
+  text-align: center;
+  margin-bottom: 0px;
+  margin-top: 60px;
+}
+#p7 {
+  text-align: center;
+  color: #777777;
+  font-size: 15px;
+  margin-top: 15px;
+}
+.con1_7 {
+  margin-left: 1000px;
+}
+.item1_7 {
+  float: left;
+}
+.clear_flo {
+  clear: both;
+}
+.item1_7 img {
+  width: 40px;
+}
